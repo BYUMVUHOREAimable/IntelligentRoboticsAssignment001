@@ -1,3 +1,4 @@
+import utils.session
 import cv2
 
 def annotate_license_plate(input_path, output_path):
